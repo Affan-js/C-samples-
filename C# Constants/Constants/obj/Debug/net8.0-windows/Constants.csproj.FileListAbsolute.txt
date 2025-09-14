@@ -1,0 +1,16 @@
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\bin\Debug\net8.0-windows\Constants.exe
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\bin\Debug\net8.0-windows\Constants.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\bin\Debug\net8.0-windows\Constants.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\bin\Debug\net8.0-windows\Constants.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\bin\Debug\net8.0-windows\Constants.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\refint\Constants.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\Constants.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Constants\Constants\obj\Debug\net8.0-windows\ref\Constants.dll
