@@ -1,0 +1,32 @@
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\bin\Debug\net8.0-windows\prsstart.exe
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\bin\Debug\net8.0-windows\prsstart.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\bin\Debug\net8.0-windows\prsstart.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\bin\Debug\net8.0-windows\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\bin\Debug\net8.0-windows\prsstart.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\refint\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\prsstart.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# getting started\prsstart\obj\Debug\net8.0-windows\ref\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\bin\Debug\net8.0-windows\prsstart.exe
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\bin\Debug\net8.0-windows\prsstart.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\bin\Debug\net8.0-windows\prsstart.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\bin\Debug\net8.0-windows\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\bin\Debug\net8.0-windows\prsstart.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\refint\prsstart.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\prsstart.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Output\prsstart\obj\Debug\net8.0-windows\ref\prsstart.dll

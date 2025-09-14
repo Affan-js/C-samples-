@@ -1,0 +1,16 @@
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\bin\Debug\net8.0-windows\varia.exe
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\bin\Debug\net8.0-windows\varia.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\bin\Debug\net8.0-windows\varia.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\bin\Debug\net8.0-windows\varia.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\bin\Debug\net8.0-windows\varia.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\refint\varia.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\varia.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Variables\varia\obj\Debug\net8.0-windows\ref\varia.dll
