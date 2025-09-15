@@ -1,0 +1,16 @@
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\bin\Debug\net8.0-windows\Type Casting.exe
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\bin\Debug\net8.0-windows\Type Casting.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\bin\Debug\net8.0-windows\Type Casting.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\bin\Debug\net8.0-windows\Type Casting.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\bin\Debug\net8.0-windows\Type Casting.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type_Casting.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\refint\Type Casting.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\Type Casting.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Type Casting\Type Casting\obj\Debug\net8.0-windows\ref\Type Casting.dll
