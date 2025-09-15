@@ -1,0 +1,16 @@
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\bin\Debug\net8.0-windows\Multiple Variables.exe
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\bin\Debug\net8.0-windows\Multiple Variables.deps.json
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\bin\Debug\net8.0-windows\Multiple Variables.runtimeconfig.json
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\bin\Debug\net8.0-windows\Multiple Variables.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\bin\Debug\net8.0-windows\Multiple Variables.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple_Variables.Form1.resources
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.csproj.GenerateResource.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.AssemblyInfoInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.AssemblyInfo.cs
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.csproj.CoreCompileInputs.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\refint\Multiple Variables.dll
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.pdb
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\Multiple Variables.genruntimeconfig.cache
+C:\Users\AFFAN\Desktop\C# practice\C# Multiple Variables\Multiple Variables\obj\Debug\net8.0-windows\ref\Multiple Variables.dll
