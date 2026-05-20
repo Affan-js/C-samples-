@@ -1,4 +1,4 @@
-just some things i did for practice 
+just some things i did for practice so dont expect it to be...
 # 🧪 C# Beginner Samples
 
 This repository contains basic C# examples to help new programmers understand how the language works. Each folder includes simple code that shows how to use variables, constants, type casting, and more.
