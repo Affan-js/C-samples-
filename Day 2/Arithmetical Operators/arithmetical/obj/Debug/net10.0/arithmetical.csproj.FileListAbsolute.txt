@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\bin\Debug\net10.0\arithmetical.exe
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\bin\Debug\net10.0\arithmetical.deps.json
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\bin\Debug\net10.0\arithmetical.runtimeconfig.json
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\bin\Debug\net10.0\arithmetical.dll
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\bin\Debug\net10.0\arithmetical.pdb
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.AssemblyInfo.cs
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.dll
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\refint\arithmetical.dll
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.pdb
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\arithmetical.genruntimeconfig.cache
+C:\Users\User\Desktop\Day 2\Arithmetical Operators\arithmetical\obj\Debug\net10.0\ref\arithmetical.dll

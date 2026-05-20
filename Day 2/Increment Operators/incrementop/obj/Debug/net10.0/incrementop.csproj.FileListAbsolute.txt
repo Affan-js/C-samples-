@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\bin\Debug\net10.0\incrementop.exe
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\bin\Debug\net10.0\incrementop.deps.json
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\bin\Debug\net10.0\incrementop.runtimeconfig.json
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\bin\Debug\net10.0\incrementop.dll
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\bin\Debug\net10.0\incrementop.pdb
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.AssemblyInfo.cs
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.dll
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\refint\incrementop.dll
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.pdb
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\incrementop.genruntimeconfig.cache
+C:\Users\User\Desktop\Day 2\Increment Operators\incrementop\obj\Debug\net10.0\ref\incrementop.dll
