@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Day 3\ifstatement\bin\Debug\net10.0\ifstatement.exe
+C:\Users\User\Desktop\Day 3\ifstatement\bin\Debug\net10.0\ifstatement.deps.json
+C:\Users\User\Desktop\Day 3\ifstatement\bin\Debug\net10.0\ifstatement.runtimeconfig.json
+C:\Users\User\Desktop\Day 3\ifstatement\bin\Debug\net10.0\ifstatement.dll
+C:\Users\User\Desktop\Day 3\ifstatement\bin\Debug\net10.0\ifstatement.pdb
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.AssemblyInfo.cs
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.dll
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\refint\ifstatement.dll
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.pdb
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ifstatement.genruntimeconfig.cache
+C:\Users\User\Desktop\Day 3\ifstatement\obj\Debug\net10.0\ref\ifstatement.dll

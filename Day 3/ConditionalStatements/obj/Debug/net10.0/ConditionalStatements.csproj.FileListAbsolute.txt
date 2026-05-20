@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Day 3\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.exe
+C:\Users\User\Desktop\Day 3\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.deps.json
+C:\Users\User\Desktop\Day 3\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.runtimeconfig.json
+C:\Users\User\Desktop\Day 3\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.dll
+C:\Users\User\Desktop\Day 3\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.pdb
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.dll
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\refint\ConditionalStatements.dll
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.pdb
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\User\Desktop\Day 3\ConditionalStatements\obj\Debug\net10.0\ref\ConditionalStatements.dll
